@@ -4,3 +4,7 @@ plugins:
 
 title: Emma Dodd
 description: Research Overview 
+
+logo: /assets/img/photo.png
+show_downloads: true
+google_analytics:
